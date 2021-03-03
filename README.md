@@ -2,7 +2,7 @@
  Data files accompanying:
  Fitzpatrick, M.C., V.E. Chhatre, R. Soolanayakanahally, and S.R. Keller. Experimental support for genomic prediction of climate maladaptation using the machine learning approach Gradient Forests. In press at Molecular Ecology Resources. Authorea preprint: https://doi.org/10.22541/au.159863198.86187354
 
-##List of files and brief explanation:
+## List of files and brief explanation:
 
 - **balsam_core336inds_42pops.vcf.gz:** *bgzipped vcf file containing SNP genotypes for 336 Populus balsamifera from the core ancesty deme*
 - **GF_GBS_predict_gardens.R:** *R script for analysis of height grwoth as a function of gnetic and climate offsets*
