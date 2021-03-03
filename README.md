@@ -4,17 +4,17 @@
 
 List of files and brief explanation:
 
-+balsam_core336inds_42pops.vcf.gz
-+GF_GBS_predict_gardens.R		
--core336.Bayenv-lfmm.gardenOffset.csv	
--core336.gf.stdFreqs.gardenOffset.csv
--IH_phenology_2015.csv			
--core336.bayenv.gardenOffset.csv		
--core336.lfmm.gardenOffset.csv
--core336.gf.allOls.gardenOffset.csv	
--core336.mahal.gardenOffset.csv
--core336.gf.allSNPs.gardenOffset.csv	
--gardenQuery.RData
--core336.500_RANDOM.gardenOffset.csv	
--core336.gf.rawFreqs.gardenOffset.csv	
--snpR2.csv
+- balsam_core336inds_42pops.vcf.gz (bgzipped vcf file containing SNP genotypes for 336 Populus balsamifera from the core ancesty deme)
+- GF_GBS_predict_gardens.R ()		
+- core336.Bayenv-lfmm.gardenOffset.csv	
+- core336.gf.stdFreqs.gardenOffset.csv
+- IH_phenology_2015.csv			
+- core336.bayenv.gardenOffset.csv		
+- core336.lfmm.gardenOffset.csv
+- core336.gf.allOls.gardenOffset.csv	
+- core336.mahal.gardenOffset.csv
+- core336.gf.allSNPs.gardenOffset.csv	
+- gardenQuery.RData
+- core336.500_RANDOM.gardenOffset.csv	
+- core336.gf.rawFreqs.gardenOffset.csv	
+- snpR2.csv
