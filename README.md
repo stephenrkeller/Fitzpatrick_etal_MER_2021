@@ -4,8 +4,8 @@
 
 List of files and brief explanation:
 
--balsam_core336inds_42pops.vcf.gz
--GF_GBS_predict_gardens.R		
++balsam_core336inds_42pops.vcf.gz
++GF_GBS_predict_gardens.R		
 -core336.Bayenv-lfmm.gardenOffset.csv	
 -core336.gf.stdFreqs.gardenOffset.csv
 -IH_phenology_2015.csv			
